@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Bhargavi Jadhav! 👋
 
-<!--
-**bhargavi-a-jadhav/bhargavi-a-jadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an incoming engineering student passionate about tech, electronics, and software development. 
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+- **Languages:** Preparing to learn Python, C++
+- **Interests:** Electronics, Embedded Systems, IoT, Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Current Goals
+- Learning core concepts of programming fundamentals
+- Exploring the basics of electronics and hardware (ECE/ENTC)
+- Setting up a strong foundation before college classes begin
+
+📫 **How to reach me:** [Insert your LinkedIn profile link here once ready]
