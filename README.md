@@ -11,5 +11,5 @@ I am an incoming engineering student passionate about tech, electronics, and sof
 - Exploring the basics of electronics and hardware (ECE/ENTC)
 - Setting up a strong foundation before college classes begin
 
-📫 **How to reach me:** [https://www.linkedin.com/public-profile/settings/
-]
+📫 **How to reach me:** [
+www.linkedin.com/in/bhargavi-j-028009424]
