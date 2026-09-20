@@ -1,15 +1,24 @@
 # Hi there, I'm Bhargavi Jadhav! 👋
 
-I am an incoming engineering student passionate about tech, electronics, and software development. 
+# Hi there, I'm Bhargavi Jadhav! 👋
 
-### 🛠️ Tech Stack & Tools
-- **Languages:** Preparing to learn Python, C++
-- **Interests:** Electronics, Embedded Systems, IoT, Software Engineering
+I am an engineering student passionate about Computer Science, Artificial Intelligence, and Machine Learning (CSE-AIML). I love exploring how data and algorithms can solve real-world problems.
 
-### 📈 Current Goals
-- Learning core concepts of programming fundamentals
-- Exploring the basics of electronics and hardware (ECE/ENTC)
-- Setting up a strong foundation before college classes begin
+---
+
+## 🛠️ Tech Stack & Tools
+
+* **Languages:** Preparing to learn Python, C++, and SQL
+* **Interests:** Artificial Intelligence, Machine Learning, Data Science, and Software Engineering
+
+---
+
+## 📈 Current Goals
+
+* **Mastering Fundamentals:** Learning core concepts of programming and data structures.
+* **AI/ML Basics:** Exploring the foundational mathematics (Linear Algebra & Probability) and introductory Python libraries for data science.
+* **Pre-College Prep:** Setting up a strong foundation in computational thinking before college classes began. 
+
 
 📫 **How to reach me:** [
 www.linkedin.com/in/bhargavi-j-028009424]
