@@ -19,5 +19,5 @@ I am an engineering student passionate about Computer Science, Artificial Intell
 * **Pre-College Prep:** Setting up a strong foundation in computational thinking before college classes began. 
 
 
-📫 **How to reach me:** [
-www.linkedin.com/in/bhargavi-j-028009424]
+📫 **How to reach me **
+[https://www.linkedin.com/in/bhargavi-jadhav-028009424]
