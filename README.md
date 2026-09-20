@@ -1,6 +1,5 @@
 # Hi there, I'm Bhargavi Jadhav! 👋
 
-# Hi there, I'm Bhargavi Jadhav! 👋
 
 I am an engineering student passionate about Computer Science, Artificial Intelligence, and Machine Learning (CSE-AIML). I love exploring how data and algorithms can solve real-world problems.
 
